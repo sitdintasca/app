@@ -3,7 +3,7 @@
     "short_name": "SITDintasca",
     "description": "Strumenti internet SITD",
     "lang": "it-IT",
-    "start_url": "/",
+    "start_url": "/app/index.html",
     "display": "standalone",
     "theme_color": "#EBEBEB",
     "background_color": "#EBEBEB",

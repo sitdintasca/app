@@ -1,12 +1,12 @@
 {
-  "name": "Web Community Leaders UK IE",
-    "short_name": "Web Leaders",
-    "description": "Web Community Leaders landing page",
-    "lang": "en-GB",
+  "name": "SITDintasca web app",
+    "short_name": "SITDintasca",
+    "description": "Strumenti internet SITD",
+    "lang": "it-IT",
     "start_url": "/",
     "display": "standalone",
-    "theme_color": "#E6E6FA",
-    "background_color": "#E6E6FA",
+    "theme_color": "#EBEBEB",
+    "background_color": "#EBEBEB",
 
  "icons": [
    {

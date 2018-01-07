@@ -1,5 +1,5 @@
-# webcommunityukie.github.io
+# SITDintasca
 
-Icon adapted from https://thenounproject.com/term/global-community/986374/
+Adapted from https://medium.com/samsung-internet-dev/a-beginners-guide-to-making-progressive-web-apps-beb56224948e
 
-Website based off http://goldsmiths.tech/ 
+

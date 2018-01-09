@@ -5,8 +5,8 @@
     "lang": "it-IT",
     "start_url": "/app/index.html",
     "display": "standalone",
-    "theme_color": "#EBEBEB",
-    "background_color": "#EBEBEB",
+    "theme_color": "#1B6286",
+    "background_color": "#1B6286",
 
  "icons": [
    
